@@ -8,7 +8,7 @@ IoTPi is an industrial board that consists of onboard RP2040, ESP8266 WIFI(ESP-1
 
 * [**/Documents**](https://github.com/sbcshop/IoTPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
 * [**/Design Data**](https://github.com/sbcshop/IoTPi-Hardware/tree/main/Design_Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+* [**/Mechanical Data**](https://github.com/sbcshop/IoTPi-Hardware/tree/main/Mechanical_Data) - This directory contains 3D and STEP files
 
 ## Documentation
 
